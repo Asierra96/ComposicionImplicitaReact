@@ -1,2 +1,2 @@
-# ComposicionImplicitaReact
+# childrenPropsReact
 Created with CodeSandbox
